@@ -1,7 +1,7 @@
 url: https://navercomp2.wisereport.co.kr/v2/servercheck.aspx
-status: up
-code: 200
-responseTime: 718
-lastUpdated: 2023-08-06T23:12:38.877Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-08-07T21:48:06.707Z
 startTime: Thu Mar 23 2023 02:18:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

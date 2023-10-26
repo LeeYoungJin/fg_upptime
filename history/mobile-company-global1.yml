@@ -1,7 +1,7 @@
 url: https://mglobal1.wisereport.co.kr/Home/ServerCheck
-status: down
-code: 503
-responseTime: 1206
-lastUpdated: 2023-10-26T22:27:26.879Z
+status: up
+code: 200
+responseTime: 868
+lastUpdated: 2023-10-26T22:39:42.562Z
 startTime: 2023-03-23T02:18:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>

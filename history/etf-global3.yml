@@ -1,7 +1,7 @@
 url: https://globaletf3.wisereport.co.kr/Home/ServerCheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-28T11:38:26.974Z
+status: up
+code: 200
+responseTime: 1067
+lastUpdated: 2023-10-28T11:50:17.972Z
 startTime: 2023-03-23T02:18:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -787,11 +787,11 @@
     "url": "https://www1.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www1.wisereport.co.kr.ico",
     "slug": "wise-report1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.27%",
     "time": 1149,
     "timeDay": 841,
@@ -799,6 +799,7 @@
     "timeMonth": 1127,
     "timeYear": 1149,
     "dailyMinutesDown": {
+      "2023-12-26": 3,
       "2023-11-04": 20,
       "2023-10-29": 20,
       "2023-10-28": 20,
@@ -866,7 +867,7 @@
       "2023-06-06": 20,
       "2023-06-05": 20,
       "2023-06-04": 63,
-      "2023-06-03": 57
+      "2023-06-03": 37
     }
   },
   {
@@ -962,11 +963,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www3.wisereport.co.kr.ico",
     "slug": "wise-report3",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.12%",
     "time": 1094,
     "timeDay": 843,
     "timeWeek": 978,
@@ -1049,9 +1050,9 @@
     "slug": "retamin1",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
     "time": 1057,
     "timeDay": 997,
@@ -1059,7 +1060,6 @@
     "timeMonth": 1085,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2023-12-26": 11,
       "2023-11-04": 19,
       "2023-10-29": 19,
       "2023-10-28": 19,
@@ -1125,7 +1125,7 @@
       "2023-05-30": 19,
       "2023-05-29": 656,
       "2023-05-28": 81,
-      "2023-05-26": 62
+      "2023-05-26": 87
     }
   },
   {
@@ -1743,10 +1743,10 @@
     "url": "https://compglobal3.wisereport.co.kr/Home/ServerCheck",
     "icon": "https://icons.duckduckgo.com/ip3/compglobal3.wisereport.co.kr.ico",
     "slug": "company-global3",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.76%",
     "time": 1365,
@@ -1755,6 +1755,7 @@
     "timeMonth": 1269,
     "timeYear": 1365,
     "dailyMinutesDown": {
+      "2023-12-26": 2,
       "2023-10-25": 23,
       "2023-10-19": 22,
       "2023-10-13": 42,

@@ -4,18 +4,19 @@
     "url": "https://comp1.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/comp1.wisereport.co.kr.ico",
     "slug": "company-wise1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.39%",
     "time": 1262,
     "timeDay": 1064,
     "timeWeek": 2082,
     "timeMonth": 1708,
-    "timeYear": 1261,
+    "timeYear": 1262,
     "dailyMinutesDown": {
+      "2024-04-05": 1,
       "2023-12-27": 68,
       "2023-12-26": 17,
       "2023-11-07": 19,
@@ -82,8 +83,7 @@
       "2023-06-15": 24,
       "2023-06-14": 20,
       "2023-06-13": 33,
-      "2023-06-11": 138,
-      "2023-06-10": 30
+      "2023-06-11": 138
     }
   },
   {
@@ -188,7 +188,7 @@
     "timeDay": 1090,
     "timeWeek": 1009,
     "timeMonth": 1284,
-    "timeYear": 1142,
+    "timeYear": 1143,
     "dailyMinutesDown": {
       "2023-12-27": 17,
       "2023-12-26": 18,
@@ -276,7 +276,7 @@
     "timeDay": 969,
     "timeWeek": 1423,
     "timeMonth": 1317,
-    "timeYear": 1080,
+    "timeYear": 1074,
     "dailyMinutesDown": {
       "2024-01-03": 17,
       "2023-12-27": 16,
@@ -363,7 +363,7 @@
     "timeDay": 977,
     "timeWeek": 903,
     "timeMonth": 1155,
-    "timeYear": 1027,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2023-12-27": 24,
       "2023-12-26": 49,
@@ -451,7 +451,7 @@
     "timeDay": 921,
     "timeWeek": 862,
     "timeMonth": 907,
-    "timeYear": 1019,
+    "timeYear": 1014,
     "dailyMinutesDown": {
       "2023-12-26": 63,
       "2023-11-07": 17,
@@ -627,7 +627,7 @@
     "timeDay": 1222,
     "timeWeek": 1211,
     "timeMonth": 1308,
-    "timeYear": 1328,
+    "timeYear": 1329,
     "dailyMinutesDown": {
       "2023-12-27": 37,
       "2023-11-23": 24,
@@ -717,7 +717,7 @@
     "timeDay": 1229,
     "timeWeek": 1145,
     "timeMonth": 1287,
-    "timeYear": 1273,
+    "timeYear": 1274,
     "dailyMinutesDown": {
       "2023-12-27": 42,
       "2023-11-07": 15,
@@ -805,7 +805,7 @@
     "timeDay": 924,
     "timeWeek": 971,
     "timeMonth": 1189,
-    "timeYear": 1156,
+    "timeYear": 1157,
     "dailyMinutesDown": {
       "2023-12-27": 57,
       "2023-12-26": 49,
@@ -982,7 +982,7 @@
     "timeDay": 908,
     "timeWeek": 925,
     "timeMonth": 976,
-    "timeYear": 1101,
+    "timeYear": 1102,
     "dailyMinutesDown": {
       "2024-04-02": 20,
       "2023-12-26": 16,
@@ -1156,7 +1156,7 @@
     "timeDay": 918,
     "timeWeek": 1448,
     "timeMonth": 1113,
-    "timeYear": 1085,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2024-03-30": 23,
       "2023-12-27": 17,
@@ -1236,7 +1236,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app3.wisereport.co.kr.ico",
     "slug": "retamin3",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
@@ -1245,7 +1245,7 @@
     "timeDay": 932,
     "timeWeek": 891,
     "timeMonth": 971,
-    "timeYear": 1059,
+    "timeYear": 1053,
     "dailyMinutesDown": {
       "2024-04-02": 20,
       "2023-12-26": 26,
@@ -1332,7 +1332,7 @@
     "timeDay": 898,
     "timeWeek": 895,
     "timeMonth": 966,
-    "timeYear": 1077,
+    "timeYear": 1078,
     "dailyMinutesDown": {
       "2023-12-27": 356,
       "2023-12-26": 80,
@@ -1500,7 +1500,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/navercomp3.wisereport.co.kr.ico",
     "slug": "naver3",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1509,7 +1509,7 @@
     "timeDay": 1075,
     "timeWeek": 903,
     "timeMonth": 956,
-    "timeYear": 1089,
+    "timeYear": 1090,
     "dailyMinutesDown": {
       "2023-12-27": 29,
       "2023-12-26": 31,
@@ -1589,7 +1589,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/compglobal1.wisereport.co.kr.ico",
     "slug": "company-global1",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1678,7 +1678,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/compglobal2.wisereport.co.kr.ico",
     "slug": "company-global2",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1687,7 +1687,7 @@
     "timeDay": 1276,
     "timeWeek": 1304,
     "timeMonth": 1289,
-    "timeYear": 1358,
+    "timeYear": 1359,
     "dailyMinutesDown": {
       "2023-12-27": 28,
       "2023-12-26": 45,
@@ -1861,7 +1861,7 @@
     "timeDay": 914,
     "timeWeek": 884,
     "timeMonth": 934,
-    "timeYear": 1012,
+    "timeYear": 1013,
     "dailyMinutesDown": {
       "2023-12-27": 223,
       "2023-12-26": 39,
@@ -2029,7 +2029,7 @@
     "timeDay": 5047,
     "timeWeek": 2163,
     "timeMonth": 1226,
-    "timeYear": 1006,
+    "timeYear": 1007,
     "dailyMinutesDown": {
       "2023-12-27": 79,
       "2023-12-26": 19,
@@ -2111,7 +2111,7 @@
     "timeDay": 901,
     "timeWeek": 1363,
     "timeMonth": 1160,
-    "timeYear": 1001,
+    "timeYear": 995,
     "dailyMinutesDown": {
       "2023-12-27": 213,
       "2023-12-26": 39,
@@ -2191,7 +2191,7 @@
     "timeDay": 905,
     "timeWeek": 901,
     "timeMonth": 1041,
-    "timeYear": 1030,
+    "timeYear": 1031,
     "dailyMinutesDown": {
       "2023-12-26": 48,
       "2023-12-19": 21,
@@ -2270,7 +2270,7 @@
     "timeDay": 1076,
     "timeWeek": 915,
     "timeMonth": 1023,
-    "timeYear": 1036,
+    "timeYear": 1030,
     "dailyMinutesDown": {
       "2023-12-26": 19,
       "2023-10-25": 20,
@@ -2493,7 +2493,7 @@
     "timeDay": 898,
     "timeWeek": 854,
     "timeMonth": 897,
-    "timeYear": 1017,
+    "timeYear": 1018,
     "dailyMinutesDown": {
       "2023-12-27": 62,
       "2023-12-26": 56,

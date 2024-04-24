@@ -441,11 +441,11 @@
     "url": "https://comp4.fnguide.com/server_variables.asp",
     "icon": "https://icons.duckduckgo.com/ip3/comp4.fnguide.com.ico",
     "slug": "company-guide3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.41%",
     "time": 1023,
     "timeDay": 987,
@@ -453,6 +453,7 @@
     "timeMonth": 906,
     "timeYear": 1013,
     "dailyMinutesDown": {
+      "2024-04-24": 6,
       "2023-12-26": 63,
       "2023-11-07": 17,
       "2023-11-04": 22,
@@ -519,8 +520,7 @@
       "2023-06-10": 67,
       "2023-06-09": 65,
       "2023-06-08": 29,
-      "2023-06-07": 100,
-      "2023-06-06": 22
+      "2023-06-07": 100
     }
   },
   {
@@ -707,11 +707,11 @@
     "url": "https://www2.fnguide.com/Etc/Service?id=Monitoring_adm",
     "icon": "https://icons.duckduckgo.com/ip3/www2.fnguide.com.ico",
     "slug": "fn-guide-com2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.44%",
     "time": 1264,
     "timeDay": 1238,
@@ -719,6 +719,7 @@
     "timeMonth": 1172,
     "timeYear": 1281,
     "dailyMinutesDown": {
+      "2024-04-24": 5,
       "2023-12-27": 42,
       "2023-11-07": 15,
       "2023-11-04": 20,
@@ -786,8 +787,7 @@
       "2023-06-08": 28,
       "2023-06-07": 96,
       "2023-06-06": 20,
-      "2023-06-05": 21,
-      "2023-06-04": 20
+      "2023-06-05": 21
     }
   },
   {
@@ -797,9 +797,9 @@
     "slug": "wise-report1",
     "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.44%",
     "time": 1147,
     "timeDay": 1108,
@@ -807,7 +807,7 @@
     "timeMonth": 1050,
     "timeYear": 1148,
     "dailyMinutesDown": {
-      "2024-04-24": 2,
+      "2024-04-24": 15,
       "2024-04-22": 20,
       "2023-12-27": 57,
       "2023-12-26": 49,
@@ -883,11 +883,11 @@
     "url": "https://www2.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www2.wisereport.co.kr.ico",
     "slug": "wise-report2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.44%",
     "time": 1144,
     "timeDay": 1019,
@@ -895,7 +895,7 @@
     "timeMonth": 1571,
     "timeYear": 1166,
     "dailyMinutesDown": {
-      "2024-04-24": 19,
+      "2024-04-24": 23,
       "2024-03-30": 23,
       "2023-12-27": 30,
       "2023-12-26": 30,
@@ -964,8 +964,7 @@
       "2023-06-04": 60,
       "2023-06-03": 56,
       "2023-06-01": 19,
-      "2023-05-30": 19,
-      "2023-05-29": 25
+      "2023-05-30": 19
     }
   },
   {
@@ -973,10 +972,10 @@
     "url": "https://www3.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www3.wisereport.co.kr.ico",
     "slug": "wise-report3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.33%",
     "time": 1100,
@@ -985,6 +984,7 @@
     "timeMonth": 985,
     "timeYear": 1092,
     "dailyMinutesDown": {
+      "2024-04-24": 3,
       "2024-04-02": 20,
       "2023-12-26": 16,
       "2023-11-23": 37,
@@ -1052,7 +1052,7 @@
       "2023-06-01": 39,
       "2023-05-30": 19,
       "2023-05-29": 656,
-      "2023-05-28": 83
+      "2023-05-28": 64
     }
   },
   {
@@ -2343,10 +2343,10 @@
     "url": "https://mglobaletf2.wisereport.co.kr/Home/ServerCheck",
     "icon": "https://icons.duckduckgo.com/ip3/mglobaletf2.wisereport.co.kr.ico",
     "slug": "mobile-etf-global2",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
     "time": 977,
@@ -2355,6 +2355,7 @@
     "timeMonth": 899,
     "timeYear": 982,
     "dailyMinutesDown": {
+      "2024-04-24": 2,
       "2023-12-27": 20,
       "2023-12-26": 21,
       "2023-12-19": 21,

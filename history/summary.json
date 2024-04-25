@@ -625,11 +625,11 @@
     "url": "https://www1.fnguide.com/Etc/Service?id=Monitoring_adm",
     "icon": "https://icons.duckduckgo.com/ip3/www1.fnguide.com.ico",
     "slug": "fn-guide-com1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.41%",
     "time": 1315,
     "timeDay": 1263,
@@ -637,6 +637,7 @@
     "timeMonth": 1303,
     "timeYear": 1324,
     "dailyMinutesDown": {
+      "2024-04-25": 6,
       "2023-12-27": 37,
       "2023-11-23": 24,
       "2023-11-07": 16,
@@ -706,8 +707,7 @@
       "2023-06-08": 28,
       "2023-06-07": 97,
       "2023-06-06": 21,
-      "2023-06-05": 21,
-      "2023-06-04": 21
+      "2023-06-05": 21
     }
   },
   {
@@ -1246,18 +1246,19 @@
     "url": "https://app3.wisereport.co.kr/Home/ServerCheck",
     "icon": "https://icons.duckduckgo.com/ip3/app3.wisereport.co.kr.ico",
     "slug": "retamin3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.35%",
-    "time": 1052,
+    "time": 1053,
     "timeDay": 948,
     "timeWeek": 977,
     "timeMonth": 945,
     "timeYear": 1048,
     "dailyMinutesDown": {
+      "2024-04-25": 6,
       "2024-04-02": 20,
       "2023-12-26": 26,
       "2023-11-04": 18,
@@ -1325,7 +1326,7 @@
       "2023-05-30": 18,
       "2023-05-29": 654,
       "2023-05-28": 78,
-      "2023-05-26": 59
+      "2023-05-26": 39
     }
   },
   {
@@ -1510,11 +1511,11 @@
     "url": "https://navercomp3.wisereport.co.kr/v2/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/navercomp3.wisereport.co.kr.ico",
     "slug": "naver3",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.37%",
     "time": 1097,
     "timeDay": 2257,
@@ -1522,7 +1523,7 @@
     "timeMonth": 1051,
     "timeYear": 1099,
     "dailyMinutesDown": {
-      "2024-04-25": 21,
+      "2024-04-25": 26,
       "2023-12-27": 29,
       "2023-12-26": 31,
       "2023-11-04": 16,
@@ -1592,7 +1593,7 @@
       "2023-05-29": 650,
       "2023-05-28": 74,
       "2023-05-26": 77,
-      "2023-05-25": 38
+      "2023-05-25": 16
     }
   },
   {
@@ -1600,11 +1601,11 @@
     "url": "https://compglobal1.wisereport.co.kr/Home/ServerCheck",
     "icon": "https://icons.duckduckgo.com/ip3/compglobal1.wisereport.co.kr.ico",
     "slug": "company-global1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.38%",
     "time": 1385,
     "timeDay": 1073,
@@ -1612,7 +1613,7 @@
     "timeMonth": 1740,
     "timeYear": 1375,
     "dailyMinutesDown": {
-      "2024-04-25": 45,
+      "2024-04-25": 49,
       "2023-12-27": 22,
       "2023-12-26": 19,
       "2023-11-04": 16,
@@ -1681,8 +1682,7 @@
       "2023-05-28": 73,
       "2023-05-26": 77,
       "2023-05-25": 53,
-      "2023-05-24": 20,
-      "2023-05-22": 21
+      "2023-05-24": 20
     }
   },
   {
@@ -1690,11 +1690,11 @@
     "url": "https://compglobal2.wisereport.co.kr/Home/ServerCheck",
     "icon": "https://icons.duckduckgo.com/ip3/compglobal2.wisereport.co.kr.ico",
     "slug": "company-global2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "96.62%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "96.38%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.33%",
     "time": 1360,
     "timeDay": 2542,
@@ -1702,7 +1702,7 @@
     "timeMonth": 1457,
     "timeYear": 1373,
     "dailyMinutesDown": {
-      "2024-04-25": 49,
+      "2024-04-25": 52,
       "2023-12-27": 28,
       "2023-12-26": 45,
       "2023-12-19": 22,
@@ -1769,8 +1769,7 @@
       "2023-05-22": 52,
       "2023-05-21": 41,
       "2023-05-20": 254,
-      "2023-05-19": 43,
-      "2023-05-18": 15
+      "2023-05-19": 43
     }
   },
   {
@@ -2357,19 +2356,19 @@
     "url": "https://mglobaletf2.wisereport.co.kr/Home/ServerCheck",
     "icon": "https://icons.duckduckgo.com/ip3/mglobaletf2.wisereport.co.kr.ico",
     "slug": "mobile-etf-global2",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "91.55%",
-    "uptimeWeek": "98.79%",
+    "uptimeDay": "91.41%",
+    "uptimeWeek": "98.77%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.28%",
     "time": 976,
     "timeDay": 861,
     "timeWeek": 923,
     "timeMonth": 890,
     "timeYear": 981,
     "dailyMinutesDown": {
-      "2024-04-25": 20,
+      "2024-04-25": 22,
       "2024-04-24": 102,
       "2023-12-27": 20,
       "2023-12-26": 21,
@@ -2428,9 +2427,9 @@
     "slug": "mobile-etf-global3",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "73.74%",
-    "uptimeWeek": "96.25%",
-    "uptimeMonth": "99.14%",
+    "uptimeDay": "71.40%",
+    "uptimeWeek": "95.91%",
+    "uptimeMonth": "99.06%",
     "uptimeYear": "99.24%",
     "time": 1016,
     "timeDay": 699,
@@ -2438,7 +2437,7 @@
     "timeMonth": 932,
     "timeYear": 1020,
     "dailyMinutesDown": {
-      "2024-04-25": 73,
+      "2024-04-25": 106,
       "2024-04-24": 305,
       "2023-12-27": 62,
       "2023-12-26": 56,

@@ -4,10 +4,10 @@
     "url": "https://comp1.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/comp1.wisereport.co.kr.ico",
     "slug": "company-wise1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 1317,
@@ -16,6 +16,7 @@
     "timeMonth": 1334,
     "timeYear": 1353,
     "dailyMinutesDown": {
+      "2024-06-07": 2,
       "2024-04-25": 21,
       "2024-04-24": 65,
       "2024-04-22": 21,
@@ -85,7 +86,7 @@
       "2023-06-15": 24,
       "2023-06-14": 20,
       "2023-06-13": 33,
-      "2023-06-11": 38
+      "2023-06-11": 21
     }
   },
   {

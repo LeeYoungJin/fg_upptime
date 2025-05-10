@@ -4,19 +4,19 @@
     "url": "https://comp1.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/comp1.wisereport.co.kr.ico",
     "slug": "company-wise1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1354,
+    "time": 1355,
     "timeDay": 1152,
     "timeWeek": 1244,
     "timeMonth": 1268,
     "timeYear": 1261,
     "dailyMinutesDown": {
-      "2025-05-10": 19,
+      "2025-05-10": 22,
       "2024-06-27": 19,
       "2024-06-25": 45,
       "2024-06-07": 18
@@ -27,11 +27,11 @@
     "url": "https://comp2.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/comp2.wisereport.co.kr.ico",
     "slug": "company-wise2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1287,
     "timeDay": 1124,
@@ -39,7 +39,7 @@
     "timeMonth": 1177,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2025-05-10": 19,
+      "2025-05-10": 22,
       "2024-06-25": 25
     }
   },
@@ -48,11 +48,11 @@
     "url": "https://comp3.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/comp3.wisereport.co.kr.ico",
     "slug": "company-wise3",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1202,
     "timeDay": 1148,
@@ -60,7 +60,7 @@
     "timeMonth": 1269,
     "timeYear": 1181,
     "dailyMinutesDown": {
-      "2025-05-10": 18
+      "2025-05-10": 20
     }
   },
   {
@@ -68,19 +68,19 @@
     "url": "https://comp2.fnguide.com/server_variables.asp",
     "icon": "https://icons.duckduckgo.com/ip3/comp2.fnguide.com.ico",
     "slug": "company-guide1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1291,
+    "time": 1292,
     "timeDay": 1386,
     "timeWeek": 1372,
     "timeMonth": 1645,
     "timeYear": 1351,
     "dailyMinutesDown": {
-      "2025-05-10": 18
+      "2025-05-10": 20
     }
   },
   {
@@ -88,10 +88,10 @@
     "url": "https://comp3.fnguide.com/server_variables.asp",
     "icon": "https://icons.duckduckgo.com/ip3/comp3.fnguide.com.ico",
     "slug": "company-guide2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1260,
@@ -100,7 +100,7 @@
     "timeMonth": 1389,
     "timeYear": 1333,
     "dailyMinutesDown": {
-      "2025-05-10": 17
+      "2025-05-10": 18
     }
   },
   {
@@ -108,9 +108,9 @@
     "url": "https://comp4.fnguide.com/server_variables.asp",
     "icon": "https://icons.duckduckgo.com/ip3/comp4.fnguide.com.ico",
     "slug": "company-guide3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "98.84%",
+    "uptimeDay": "98.79%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -120,7 +120,7 @@
     "timeMonth": 1423,
     "timeYear": 1344,
     "dailyMinutesDown": {
-      "2025-05-10": 17
+      "2025-05-10": 18
     }
   },
   {
@@ -212,9 +212,9 @@
     "slug": "wise-report2",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1111,
     "timeDay": 964,
@@ -222,7 +222,6 @@
     "timeMonth": 1115,
     "timeYear": 1087,
     "dailyMinutesDown": {
-      "2025-05-10": 14,
       "2024-10-15": 21,
       "2024-06-26": 26,
       "2024-06-25": 1
@@ -235,9 +234,9 @@
     "slug": "wise-report3",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1078,
     "timeDay": 1028,
@@ -245,7 +244,6 @@
     "timeMonth": 1095,
     "timeYear": 1080,
     "dailyMinutesDown": {
-      "2025-05-10": 14,
       "2024-12-11": 37,
       "2024-06-26": 26,
       "2024-06-25": 0
@@ -258,17 +256,16 @@
     "slug": "retamin1",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1056,
     "timeDay": 898,
     "timeWeek": 967,
     "timeMonth": 1050,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2025-05-10": 13,
       "2024-11-01": 18
     }
   },
@@ -279,18 +276,16 @@
     "slug": "retamin2",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1054,
     "timeDay": 917,
     "timeWeek": 915,
     "timeMonth": 1035,
     "timeYear": 1042,
-    "dailyMinutesDown": {
-      "2025-05-10": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Retamin3",
@@ -299,9 +294,9 @@
     "slug": "retamin3",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1034,
     "timeDay": 847,
@@ -309,7 +304,6 @@
     "timeMonth": 1130,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2025-05-10": 12,
       "2024-12-11": 37
     }
   },
@@ -319,19 +313,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/navercomp1.wisereport.co.kr.ico",
     "slug": "naver1",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1052,
     "timeDay": 875,
     "timeWeek": 913,
     "timeMonth": 1202,
     "timeYear": 1049,
-    "dailyMinutesDown": {
-      "2025-05-10": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Naver2",
@@ -340,18 +332,16 @@
     "slug": "naver2",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1022,
     "timeDay": 828,
     "timeWeek": 928,
     "timeMonth": 1098,
     "timeYear": 1048,
-    "dailyMinutesDown": {
-      "2025-05-10": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Naver3",
@@ -359,19 +349,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/navercomp3.wisereport.co.kr.ico",
     "slug": "naver3",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1016,
     "timeDay": 955,
     "timeWeek": 980,
     "timeMonth": 1013,
     "timeYear": 996,
-    "dailyMinutesDown": {
-      "2025-05-10": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CompanyGlobal1",
@@ -380,18 +368,16 @@
     "slug": "company-global1",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1348,
     "timeDay": 1304,
     "timeWeek": 1256,
     "timeMonth": 1326,
     "timeYear": 1335,
-    "dailyMinutesDown": {
-      "2025-05-10": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CompanyGlobal2",
@@ -399,19 +385,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/compglobal2.wisereport.co.kr.ico",
     "slug": "company-global2",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1355,
     "timeDay": 1179,
     "timeWeek": 1193,
     "timeMonth": 1339,
     "timeYear": 1335,
-    "dailyMinutesDown": {
-      "2025-05-10": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CompanyGlobal3",

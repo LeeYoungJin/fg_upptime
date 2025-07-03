@@ -225,10 +225,10 @@
     "url": "https://www3.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www3.wisereport.co.kr.ico",
     "slug": "wise-report3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1079,
@@ -237,6 +237,7 @@
     "timeMonth": 1021,
     "timeYear": 1077,
     "dailyMinutesDown": {
+      "2025-07-03": 2,
       "2024-12-11": 37
     }
   },
@@ -283,10 +284,10 @@
     "url": "https://app3.wisereport.co.kr/Home/ServerCheck",
     "icon": "https://icons.duckduckgo.com/ip3/app3.wisereport.co.kr.ico",
     "slug": "retamin3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1029,
@@ -295,6 +296,7 @@
     "timeMonth": 991,
     "timeYear": 1031,
     "dailyMinutesDown": {
+      "2025-07-03": 2,
       "2024-12-11": 37
     }
   },
@@ -501,10 +503,10 @@
     "url": "https://globaletf3.wisereport.co.kr/Home/ServerCheck",
     "icon": "https://icons.duckduckgo.com/ip3/globaletf3.wisereport.co.kr.ico",
     "slug": "etf-global3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 982,
@@ -512,7 +514,9 @@
     "timeWeek": 754,
     "timeMonth": 873,
     "timeYear": 969,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-03": 2
+    }
   },
   {
     "name": "MobileETFGlobal1",
@@ -555,17 +559,19 @@
     "url": "https://mglobaletf3.wisereport.co.kr/Home/ServerCheck",
     "icon": "https://icons.duckduckgo.com/ip3/mglobaletf3.wisereport.co.kr.ico",
     "slug": "mobile-etf-global3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 971,
+    "time": 969,
     "timeDay": 794,
     "timeWeek": 761,
     "timeMonth": 850,
     "timeYear": 967,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-03": 2
+    }
   }
 ]

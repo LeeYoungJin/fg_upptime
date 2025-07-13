@@ -27,12 +27,12 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1301,
     "timeDay": 963,
-    "timeWeek": 1327,
+    "timeWeek": 1378,
     "timeMonth": 1395,
     "timeYear": 1260,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
     "uptimeYear": "100.00%",
     "time": 1203,
     "timeDay": 959,
-    "timeWeek": 1238,
+    "timeWeek": 1222,
     "timeMonth": 1203,
     "timeYear": 1183,
     "dailyMinutesDown": {
@@ -377,10 +377,10 @@
     "url": "https://compglobal2.wisereport.co.kr/Home/ServerCheck",
     "icon": "https://icons.duckduckgo.com/ip3/compglobal2.wisereport.co.kr.ico",
     "slug": "company-global2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1340,
@@ -388,7 +388,9 @@
     "timeWeek": 1327,
     "timeMonth": 1346,
     "timeYear": 1320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-13": 1
+    }
   },
   {
     "name": "CompanyGlobal3",
@@ -396,7 +398,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/compglobal3.wisereport.co.kr.ico",
     "slug": "company-global3",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",

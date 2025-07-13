@@ -6,17 +6,16 @@
     "slug": "company-wise1",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1300,
     "timeDay": 1030,
     "timeWeek": 1197,
     "timeMonth": 1188,
     "timeYear": 1226,
     "dailyMinutesDown": {
-      "2025-07-12": 12,
       "2025-05-10": 19
     }
   },
@@ -190,9 +189,9 @@
     "slug": "wise-report1",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1099,
     "timeDay": 834,
@@ -200,7 +199,6 @@
     "timeMonth": 1113,
     "timeYear": 1090,
     "dailyMinutesDown": {
-      "2025-07-12": 11,
       "2024-11-01": 31
     }
   },
@@ -251,17 +249,16 @@
     "slug": "retamin1",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1030,
     "timeDay": 771,
     "timeWeek": 1002,
     "timeMonth": 995,
     "timeYear": 1038,
     "dailyMinutesDown": {
-      "2025-07-12": 11,
       "2024-11-01": 18
     }
   },
@@ -364,18 +361,16 @@
     "slug": "company-global1",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1355,
     "timeDay": 2143,
     "timeWeek": 1520,
     "timeMonth": 1361,
     "timeYear": 1343,
-    "dailyMinutesDown": {
-      "2025-07-12": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CompanyGlobal2",

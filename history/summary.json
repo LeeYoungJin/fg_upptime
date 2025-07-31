@@ -359,18 +359,20 @@
     "url": "https://compglobal1.wisereport.co.kr/Home/ServerCheck",
     "icon": "https://icons.duckduckgo.com/ip3/compglobal1.wisereport.co.kr.ico",
     "slug": "company-global1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1358,
+    "time": 1359,
     "timeDay": 1004,
     "timeWeek": 1344,
     "timeMonth": 1378,
     "timeYear": 1346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-31": 1
+    }
   },
   {
     "name": "CompanyGlobal2",

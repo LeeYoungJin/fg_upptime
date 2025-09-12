@@ -523,19 +523,19 @@
     "url": "https://mglobaletf1.wisereport.co.kr/Home/ServerCheck",
     "icon": "https://icons.duckduckgo.com/ip3/mglobaletf1.wisereport.co.kr.ico",
     "slug": "mobile-etf-global1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 934,
-    "timeDay": 875,
-    "timeWeek": 950,
-    "timeMonth": 933,
-    "timeYear": 933,
+    "timeDay": 731,
+    "timeWeek": 904,
+    "timeMonth": 922,
+    "timeYear": 932,
     "dailyMinutesDown": {
-      "2025-09-12": 2
+      "2025-09-12": 11
     }
   },
   {

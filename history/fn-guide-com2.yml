@@ -1,7 +1,7 @@
 url: https://www2.fnguide.com/Etc/Service?id=Monitoring_adm
-status: up
-code: 200
-responseTime: 956
-lastUpdated: 2025-10-20T05:44:23.736Z
+status: down
+code: 404
+responseTime: 989
+lastUpdated: 2025-10-20T07:10:00.248Z
 startTime: 2023-03-23T02:18:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>

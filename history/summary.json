@@ -449,18 +449,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/compglobal3.wisereport.co.kr.ico",
     "slug": "company-global3",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 1303,
     "timeDay": 1045,
     "timeWeek": 1154,
     "timeMonth": 1107,
     "timeYear": 1298,
     "dailyMinutesDown": {
-      "2025-10-20": 11,
       "2025-10-03": 18
     }
   },
@@ -471,17 +470,16 @@
     "slug": "mobile-company-global1",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 947,
     "timeDay": 687,
     "timeWeek": 699,
     "timeMonth": 732,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2025-10-20": 11,
       "2025-10-03": 17
     }
   },
@@ -492,17 +490,16 @@
     "slug": "mobile-company-global2",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 958,
     "timeDay": 730,
     "timeWeek": 815,
     "timeMonth": 752,
     "timeYear": 958,
     "dailyMinutesDown": {
-      "2025-10-20": 11,
       "2025-10-03": 17
     }
   },
@@ -513,17 +510,16 @@
     "slug": "mobile-company-global3",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 949,
     "timeDay": 573,
     "timeWeek": 719,
     "timeMonth": 741,
     "timeYear": 952,
     "dailyMinutesDown": {
-      "2025-10-20": 10,
       "2025-10-03": 17
     }
   },
@@ -534,17 +530,16 @@
     "slug": "etf-global1",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 948,
     "timeDay": 624,
     "timeWeek": 668,
     "timeMonth": 711,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2025-10-20": 10,
       "2025-10-03": 16
     }
   },
@@ -555,9 +550,9 @@
     "slug": "etf-global2",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 945,
     "timeDay": 625,
@@ -565,7 +560,6 @@
     "timeMonth": 895,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2025-10-20": 10,
       "2025-10-03": 16
     }
   },
@@ -576,9 +570,9 @@
     "slug": "etf-global3",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 975,
     "timeDay": 712,
@@ -586,7 +580,6 @@
     "timeMonth": 757,
     "timeYear": 989,
     "dailyMinutesDown": {
-      "2025-10-20": 9,
       "2025-10-03": 15
     }
   },
@@ -595,11 +588,11 @@
     "url": "https://mglobaletf1.wisereport.co.kr/Home/ServerCheck",
     "icon": "https://icons.duckduckgo.com/ip3/mglobaletf1.wisereport.co.kr.ico",
     "slug": "mobile-etf-global1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.97%",
     "time": 917,
     "timeDay": 2959,
@@ -607,7 +600,7 @@
     "timeMonth": 816,
     "timeYear": 905,
     "dailyMinutesDown": {
-      "2025-10-20": 9,
+      "2025-10-20": 2,
       "2025-10-15": 19,
       "2025-10-14": 17,
       "2025-10-02": 16,
@@ -624,18 +617,16 @@
     "slug": "mobile-etf-global2",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1184,
     "timeDay": 1930,
     "timeWeek": 3536,
     "timeMonth": 3899,
     "timeYear": 1258,
-    "dailyMinutesDown": {
-      "2025-10-20": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MobileETFGlobal3",
@@ -644,17 +635,15 @@
     "slug": "mobile-etf-global3",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 960,
     "timeDay": 563,
     "timeWeek": 671,
     "timeMonth": 872,
     "timeYear": 970,
-    "dailyMinutesDown": {
-      "2025-10-20": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]

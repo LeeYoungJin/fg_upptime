@@ -169,8 +169,8 @@
     "status": "down",
     "uptime": "99.66%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "85.05%",
-    "uptimeMonth": "96.51%",
+    "uptimeWeek": "84.97%",
+    "uptimeMonth": "96.49%",
     "uptimeYear": "99.70%",
     "time": 1614,
     "timeDay": 1554,
@@ -178,7 +178,7 @@
     "timeMonth": 1620,
     "timeYear": 1687,
     "dailyMinutesDown": {
-      "2025-10-21": 467,
+      "2025-10-21": 476,
       "2025-10-20": 1040,
       "2025-10-03": 24,
       "2025-07-07": 25,
@@ -193,8 +193,8 @@
     "status": "down",
     "uptime": "99.68%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "85.17%",
-    "uptimeMonth": "96.53%",
+    "uptimeWeek": "85.09%",
+    "uptimeMonth": "96.52%",
     "uptimeYear": "99.70%",
     "time": 1605,
     "timeDay": 1335,
@@ -202,7 +202,7 @@
     "timeMonth": 1649,
     "timeYear": 1671,
     "dailyMinutesDown": {
-      "2025-10-21": 467,
+      "2025-10-21": 476,
       "2025-10-20": 1027,
       "2025-10-03": 24,
       "2025-05-10": 15,
@@ -628,19 +628,19 @@
     "url": "https://mglobaletf3.wisereport.co.kr/Home/ServerCheck",
     "icon": "https://icons.duckduckgo.com/ip3/mglobaletf3.wisereport.co.kr.ico",
     "slug": "mobile-etf-global3",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 970,
-    "timeDay": 5773,
-    "timeWeek": 1237,
-    "timeMonth": 1030,
+    "timeDay": 3354,
+    "timeWeek": 1207,
+    "timeMonth": 1027,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2025-10-21": 2
+      "2025-10-21": 9
     }
   }
 ]

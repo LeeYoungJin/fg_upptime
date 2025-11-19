@@ -4,9 +4,9 @@
     "url": "https://www1.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www1.wisereport.co.kr.ico",
     "slug": "wise-report1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 949,
     "timeYear": 1067,
     "dailyMinutesDown": {
+      "2025-11-19": 0,
       "2025-10-20": 17,
       "2025-10-03": 23
     }

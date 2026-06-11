@@ -11,9 +11,9 @@
     "uptimeMonth": "93.42%",
     "uptimeYear": "99.16%",
     "time": 1084,
-    "timeDay": 1143,
-    "timeWeek": 954,
-    "timeMonth": 1451,
+    "timeDay": 966,
+    "timeWeek": 976,
+    "timeMonth": 1453,
     "timeYear": 1087,
     "dailyMinutesDown": {
       "2025-10-03": 23,
@@ -34,16 +34,16 @@
     "url": "https://www2.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www2.wisereport.co.kr.ico",
     "slug": "wise-report2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "85.80%",
-    "uptimeMonth": "86.92%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "85.75%",
+    "uptimeMonth": "86.91%",
     "uptimeYear": "98.89%",
     "time": 1037,
-    "timeDay": 1143,
-    "timeWeek": 917,
-    "timeMonth": 1023,
+    "timeDay": 0,
+    "timeWeek": 934,
+    "timeMonth": 1006,
     "timeYear": 1019,
     "dailyMinutesDown": {
       "2025-10-03": 23,
@@ -57,7 +57,8 @@
       "2026-06-01": 1414,
       "2026-05-31": 24,
       "2026-06-06": 1406,
-      "2026-06-05": 25
+      "2026-06-05": 25,
+      "2026-06-11": 5
     }
   },
   {
@@ -66,15 +67,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www3.wisereport.co.kr.ico",
     "slug": "wise-report3",
     "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "90.07%",
-    "uptimeYear": "98.89%",
+    "uptime": "99.38%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.66%",
+    "uptimeMonth": "86.91%",
+    "uptimeYear": "98.62%",
     "time": 1086,
     "timeDay": 0,
-    "timeWeek": 1083,
-    "timeMonth": 1763,
+    "timeWeek": 1128,
+    "timeMonth": 1796,
     "timeYear": 1092,
     "dailyMinutesDown": {
       "2025-10-03": 22,
@@ -88,7 +89,7 @@
       "2026-05-23": 24,
       "2026-05-30": 1405,
       "2026-05-29": 18,
-      "2026-06-11": 39,
+      "2026-06-11": 1424,
       "2026-06-10": 21
     }
   }

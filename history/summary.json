@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.42%",
     "uptimeYear": "99.16%",
-    "time": 1083,
-    "timeDay": 883,
-    "timeWeek": 1016,
-    "timeMonth": 1447,
-    "timeYear": 1085,
+    "time": 1082,
+    "timeDay": 0,
+    "timeWeek": 995,
+    "timeMonth": 963,
+    "timeYear": 1084,
     "dailyMinutesDown": {
       "2025-10-03": 23,
       "2025-10-20": 17,
@@ -34,17 +34,17 @@
     "url": "https://www2.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www2.wisereport.co.kr.ico",
     "slug": "wise-report2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "86.40%",
-    "uptimeMonth": "80.37%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "80.36%",
     "uptimeYear": "98.35%",
     "time": 1077,
-    "timeDay": 869,
-    "timeWeek": 3803,
-    "timeMonth": 1759,
-    "timeYear": 1069,
+    "timeDay": 0,
+    "timeWeek": 4246,
+    "timeMonth": 1783,
+    "timeYear": 1068,
     "dailyMinutesDown": {
       "2025-10-03": 23,
       "2025-10-20": 16,
@@ -61,7 +61,8 @@
       "2026-06-12": 1414,
       "2026-06-11": 21,
       "2026-06-14": 1411,
-      "2026-06-13": 23
+      "2026-06-13": 23,
+      "2026-06-21": 5
     }
   },
   {
@@ -69,16 +70,16 @@
     "url": "https://www3.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www3.wisereport.co.kr.ico",
     "slug": "wise-report3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "72.18%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "85.79%",
     "uptimeMonth": "80.39%",
     "uptimeYear": "97.81%",
-    "time": 1083,
-    "timeDay": 607,
-    "timeWeek": 923,
-    "timeMonth": 1828,
+    "time": 1084,
+    "timeDay": 0,
+    "timeWeek": 919,
+    "timeMonth": 955,
     "timeYear": 1090,
     "dailyMinutesDown": {
       "2025-10-03": 22,
@@ -98,7 +99,8 @@
       "2026-06-14": 1411,
       "2026-06-13": 18,
       "2026-06-16": 1414,
-      "2026-06-15": 18
+      "2026-06-15": 18,
+      "2026-06-21": 0
     }
   }
 ]

@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.42%",
     "uptimeYear": "99.16%",
-    "time": 1082,
-    "timeDay": 0,
-    "timeWeek": 995,
-    "timeMonth": 963,
-    "timeYear": 1084,
+    "time": 1090,
+    "timeDay": 4943,
+    "timeWeek": 1559,
+    "timeMonth": 1100,
+    "timeYear": 1095,
     "dailyMinutesDown": {
       "2025-10-03": 23,
       "2025-10-20": 17,
@@ -36,10 +36,10 @@
     "slug": "wise-report2",
     "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "80.36%",
-    "uptimeYear": "98.35%",
+    "uptimeDay": "95.69%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "80.23%",
+    "uptimeYear": "98.34%",
     "time": 1077,
     "timeDay": 0,
     "timeWeek": 4246,
@@ -62,7 +62,8 @@
       "2026-06-11": 21,
       "2026-06-14": 1411,
       "2026-06-13": 23,
-      "2026-06-21": 5
+      "2026-06-22": 39,
+      "2026-06-21": 23
     }
   },
   {
@@ -72,10 +73,10 @@
     "slug": "wise-report3",
     "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "85.79%",
-    "uptimeMonth": "80.39%",
-    "uptimeYear": "97.81%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "85.22%",
+    "uptimeMonth": "80.26%",
+    "uptimeYear": "97.80%",
     "time": 1084,
     "timeDay": 0,
     "timeWeek": 919,
@@ -100,7 +101,8 @@
       "2026-06-13": 18,
       "2026-06-16": 1414,
       "2026-06-15": 18,
-      "2026-06-21": 0
+      "2026-06-22": 39,
+      "2026-06-21": 18
     }
   }
 ]

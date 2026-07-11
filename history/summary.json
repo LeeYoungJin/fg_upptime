@@ -11,10 +11,10 @@
     "uptimeMonth": "86.87%",
     "uptimeYear": "98.06%",
     "time": 1138,
-    "timeDay": 5687,
-    "timeWeek": 1885,
+    "timeDay": 1154,
+    "timeWeek": 1764,
     "timeMonth": 2066,
-    "timeYear": 1154,
+    "timeYear": 1153,
     "dailyMinutesDown": {
       "2025-10-03": 23,
       "2025-10-20": 17,
@@ -41,17 +41,17 @@
     "url": "https://www2.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www2.wisereport.co.kr.ico",
     "slug": "wise-report2",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "72.60%",
-    "uptimeMonth": "80.32%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "85.62%",
+    "uptimeMonth": "80.30%",
     "uptimeYear": "97.25%",
     "time": 1076,
-    "timeDay": 1041,
+    "timeDay": 0,
     "timeWeek": 1000,
-    "timeMonth": 1846,
-    "timeYear": 1073,
+    "timeMonth": 1877,
+    "timeYear": 1072,
     "dailyMinutesDown": {
       "2025-10-03": 23,
       "2025-10-20": 16,
@@ -75,7 +75,8 @@
       "2026-07-04": 9,
       "2026-07-03": 1426,
       "2026-07-09": 11,
-      "2026-07-08": 1433
+      "2026-07-08": 1433,
+      "2026-07-11": 5
     }
   },
   {
@@ -83,17 +84,17 @@
     "url": "https://www3.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www3.wisereport.co.kr.ico",
     "slug": "wise-report3",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "71.56%",
-    "uptimeMonth": "73.81%",
+    "uptimeMonth": "73.87%",
     "uptimeYear": "96.71%",
     "time": 1080,
-    "timeDay": 1029,
+    "timeDay": 0,
     "timeWeek": 958,
     "timeMonth": 915,
-    "timeYear": 1086,
+    "timeYear": 1085,
     "dailyMinutesDown": {
       "2025-10-03": 22,
       "2025-10-20": 16,
@@ -119,7 +120,8 @@
       "2026-07-05": 2,
       "2026-07-04": 1426,
       "2026-07-09": 11,
-      "2026-07-08": 1428
+      "2026-07-08": 1428,
+      "2026-07-11": 0
     }
   }
 ]

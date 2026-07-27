@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.86%",
     "uptimeYear": "97.52%",
-    "time": 1159,
-    "timeDay": 819,
-    "timeWeek": 911,
-    "timeMonth": 2406,
-    "timeYear": 1175,
+    "time": 1158,
+    "timeDay": 0,
+    "timeWeek": 861,
+    "timeMonth": 2462,
+    "timeYear": 1174,
     "dailyMinutesDown": {
       "2025-10-03": 23,
       "2025-10-20": 17,
@@ -45,17 +45,17 @@
     "url": "https://www2.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www2.wisereport.co.kr.ico",
     "slug": "wise-report2",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.89%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "86.88%",
     "uptimeYear": "96.71%",
     "time": 1112,
-    "timeDay": 975,
-    "timeWeek": 936,
-    "timeMonth": 1782,
-    "timeYear": 1122,
+    "timeDay": 0,
+    "timeWeek": 893,
+    "timeMonth": 1812,
+    "timeYear": 1121,
     "dailyMinutesDown": {
       "2025-10-03": 23,
       "2025-10-20": 16,
@@ -81,7 +81,8 @@
       "2026-07-09": 11,
       "2026-07-08": 1433,
       "2026-07-11": 1434,
-      "2026-07-13": 1430
+      "2026-07-13": 1430,
+      "2026-07-27": 5
     }
   },
   {
@@ -89,16 +90,16 @@
     "url": "https://www3.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www3.wisereport.co.kr.ico",
     "slug": "wise-report3",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "80.35%",
     "uptimeYear": "95.62%",
-    "time": 1077,
-    "timeDay": 825,
-    "timeWeek": 858,
-    "timeMonth": 899,
+    "time": 1078,
+    "timeDay": 0,
+    "timeWeek": 797,
+    "timeMonth": 907,
     "timeYear": 1077,
     "dailyMinutesDown": {
       "2025-10-03": 22,
@@ -129,7 +130,8 @@
       "2026-07-13": 1434,
       "2026-07-12": 1440,
       "2026-07-11": 1432,
-      "2026-07-15": 1434
+      "2026-07-15": 1434,
+      "2026-07-27": 0
     }
   }
 ]

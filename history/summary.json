@@ -99,10 +99,10 @@
     "slug": "wise-report3",
     "status": "down",
     "uptime": "98.29%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "85.86%",
-    "uptimeMonth": "73.81%",
-    "uptimeYear": "94.81%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "85.61%",
+    "uptimeMonth": "73.75%",
+    "uptimeYear": "94.80%",
     "time": 1075,
     "timeDay": 0,
     "timeWeek": 957,
@@ -141,7 +141,7 @@
       "2026-07-28": 1438,
       "2026-07-27": 1431,
       "2026-08-05": 1425,
-      "2026-08-07": 0
+      "2026-08-07": 26
     }
   }
 ]

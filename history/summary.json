@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www1.wisereport.co.kr.ico",
     "slug": "wise-report1",
     "status": "down",
-    "uptime": "98.81%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "86.84%",
-    "uptimeYear": "96.42%",
+    "uptime": "98.80%",
+    "uptimeDay": "94.17%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "86.67%",
+    "uptimeYear": "96.41%",
     "time": 1154,
     "timeDay": 0,
     "timeWeek": 860,
-    "timeMonth": 1370,
+    "timeMonth": 1391,
     "timeYear": 1170,
     "dailyMinutesDown": {
       "2025-10-03": 23,
@@ -44,7 +44,8 @@
       "2026-08-05": 1432,
       "2026-08-09": 1411,
       "2026-08-08": 27,
-      "2026-08-16": 10
+      "2026-08-17": 48,
+      "2026-08-16": 36
     }
   },
   {
@@ -54,14 +55,14 @@
     "slug": "wise-report2",
     "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "86.87%",
-    "uptimeYear": "95.61%",
+    "uptimeDay": "94.51%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "86.71%",
+    "uptimeYear": "95.60%",
     "time": 1106,
     "timeDay": 0,
     "timeWeek": 966,
-    "timeMonth": 977,
+    "timeMonth": 960,
     "timeYear": 1118,
     "dailyMinutesDown": {
       "2025-10-03": 23,
@@ -95,7 +96,8 @@
       "2026-08-02": 1433,
       "2026-08-08": 1413,
       "2026-08-07": 22,
-      "2026-08-16": 5
+      "2026-08-17": 48,
+      "2026-08-16": 31
     }
   },
   {
@@ -104,15 +106,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www3.wisereport.co.kr.ico",
     "slug": "wise-report3",
     "status": "down",
-    "uptime": "98.16%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.93%",
-    "uptimeYear": "94.28%",
+    "uptime": "98.15%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "83.76%",
+    "uptimeYear": "94.27%",
     "time": 1069,
     "timeDay": 0,
     "timeWeek": 839,
-    "timeMonth": 869,
+    "timeMonth": 871,
     "timeYear": 1069,
     "dailyMinutesDown": {
       "2025-10-03": 22,
@@ -150,7 +152,8 @@
       "2026-08-07": 1311,
       "2026-08-09": 1412,
       "2026-08-08": 22,
-      "2026-08-16": 0
+      "2026-08-17": 48,
+      "2026-08-16": 26
     }
   }
 ]

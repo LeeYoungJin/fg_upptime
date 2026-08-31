@@ -56,11 +56,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www2.wisereport.co.kr.ico",
     "slug": "wise-report2",
     "status": "down",
-    "uptime": "98.51%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.17%",
-    "uptimeYear": "95.34%",
+    "uptime": "98.50%",
+    "uptimeDay": "93.70%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "89.97%",
+    "uptimeYear": "95.33%",
     "time": 1101,
     "timeDay": 0,
     "timeWeek": 902,
@@ -100,7 +100,7 @@
       "2026-08-07": 22,
       "2026-08-17": 1402,
       "2026-08-16": 31,
-      "2026-08-31": 0
+      "2026-08-31": 91
     }
   },
   {

@@ -4,16 +4,16 @@
     "url": "https://www1.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www1.wisereport.co.kr.ico",
     "slug": "wise-report1",
-    "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.91%",
-    "uptimeYear": "95.88%",
-    "time": 1148,
-    "timeDay": 1097,
-    "timeWeek": 918,
-    "timeMonth": 915,
+    "status": "down",
+    "uptime": "98.67%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "86.87%",
+    "uptimeYear": "95.87%",
+    "time": 1149,
+    "timeDay": 0,
+    "timeWeek": 935,
+    "timeMonth": 919,
     "timeYear": 1165,
     "dailyMinutesDown": {
       "2025-10-03": 23,
@@ -47,7 +47,8 @@
       "2026-08-17": 1402,
       "2026-08-16": 36,
       "2026-08-21": 1404,
-      "2026-08-20": 30
+      "2026-08-20": 30,
+      "2026-09-04": 10
     }
   },
   {
@@ -55,16 +56,16 @@
     "url": "https://www2.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www2.wisereport.co.kr.ico",
     "slug": "wise-report2",
-    "status": "up",
+    "status": "down",
     "uptime": "98.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "71.63%",
-    "uptimeMonth": "86.92%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "71.58%",
+    "uptimeMonth": "86.91%",
     "uptimeYear": "94.80%",
     "time": 1100,
-    "timeDay": 1048,
-    "timeWeek": 865,
-    "timeMonth": 941,
+    "timeDay": 0,
+    "timeWeek": 880,
+    "timeMonth": 946,
     "timeYear": 1116,
     "dailyMinutesDown": {
       "2025-10-03": 23,
@@ -102,7 +103,8 @@
       "2026-08-16": 31,
       "2026-09-02": 51,
       "2026-09-01": 1440,
-      "2026-08-31": 1368
+      "2026-08-31": 1368,
+      "2026-09-04": 5
     }
   },
   {
@@ -110,16 +112,16 @@
     "url": "https://www3.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www3.wisereport.co.kr.ico",
     "slug": "wise-report3",
-    "status": "up",
-    "uptime": "98.10%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.11%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.22%",
     "uptimeYear": "94.01%",
-    "time": 1065,
-    "timeDay": 1071,
-    "timeWeek": 951,
-    "timeMonth": 904,
+    "time": 1064,
+    "timeDay": 0,
+    "timeWeek": 976,
+    "timeMonth": 918,
     "timeYear": 1066,
     "dailyMinutesDown": {
       "2025-10-03": 22,
@@ -158,7 +160,8 @@
       "2026-08-09": 1412,
       "2026-08-08": 22,
       "2026-08-17": 1403,
-      "2026-08-16": 26
+      "2026-08-16": 26,
+      "2026-09-04": 0
     }
   }
 ]

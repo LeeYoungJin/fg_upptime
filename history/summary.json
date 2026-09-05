@@ -4,16 +4,16 @@
     "url": "https://www1.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www1.wisereport.co.kr.ico",
     "slug": "wise-report1",
-    "status": "down",
-    "uptime": "98.66%",
-    "uptimeDay": "94.25%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "86.70%",
-    "uptimeYear": "95.86%",
+    "status": "up",
+    "uptime": "98.59%",
+    "uptimeDay": "1.08%",
+    "uptimeWeek": "85.87%",
+    "uptimeMonth": "83.71%",
+    "uptimeYear": "95.60%",
     "time": 1149,
-    "timeDay": 0,
-    "timeWeek": 935,
-    "timeMonth": 919,
+    "timeDay": 1074,
+    "timeWeek": 939,
+    "timeMonth": 925,
     "timeYear": 1165,
     "dailyMinutesDown": {
       "2025-10-03": 23,
@@ -48,7 +48,8 @@
       "2026-08-16": 36,
       "2026-08-21": 1404,
       "2026-08-20": 30,
-      "2026-09-04": 83
+      "2026-09-05": 38,
+      "2026-09-04": 1386
     }
   },
   {
@@ -56,17 +57,17 @@
     "url": "https://www2.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www2.wisereport.co.kr.ico",
     "slug": "wise-report2",
-    "status": "down",
-    "uptime": "98.35%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "70.86%",
-    "uptimeMonth": "86.75%",
-    "uptimeYear": "94.78%",
-    "time": 1100,
-    "timeDay": 0,
-    "timeWeek": 880,
-    "timeMonth": 946,
-    "timeYear": 1116,
+    "status": "up",
+    "uptime": "98.28%",
+    "uptimeDay": "1.42%",
+    "uptimeWeek": "57.55%",
+    "uptimeMonth": "83.68%",
+    "uptimeYear": "94.53%",
+    "time": 1101,
+    "timeDay": 1064,
+    "timeWeek": 882,
+    "timeMonth": 943,
+    "timeYear": 1115,
     "dailyMinutesDown": {
       "2025-10-03": 23,
       "2025-10-20": 16,
@@ -104,7 +105,8 @@
       "2026-09-02": 51,
       "2026-09-01": 1440,
       "2026-08-31": 1368,
-      "2026-09-04": 78
+      "2026-09-05": 39,
+      "2026-09-04": 1381
     }
   },
   {
@@ -112,16 +114,16 @@
     "url": "https://www3.wisereport.co.kr/servercheck.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/www3.wisereport.co.kr.ico",
     "slug": "wise-report3",
-    "status": "down",
-    "uptime": "98.10%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "87.05%",
-    "uptimeYear": "94.00%",
+    "status": "up",
+    "uptime": "98.03%",
+    "uptimeDay": "1.75%",
+    "uptimeWeek": "85.96%",
+    "uptimeMonth": "84.05%",
+    "uptimeYear": "93.74%",
     "time": 1064,
-    "timeDay": 0,
-    "timeWeek": 976,
-    "timeMonth": 918,
+    "timeDay": 1051,
+    "timeWeek": 979,
+    "timeMonth": 923,
     "timeYear": 1066,
     "dailyMinutesDown": {
       "2025-10-03": 22,
@@ -161,7 +163,8 @@
       "2026-08-08": 22,
       "2026-08-17": 1403,
       "2026-08-16": 26,
-      "2026-09-04": 73
+      "2026-09-05": 39,
+      "2026-09-04": 1376
     }
   }
 ]

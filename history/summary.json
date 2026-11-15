@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.34%",
     "time": 1170,
-    "timeDay": 957,
+    "timeDay": 1123,
     "timeWeek": 965,
     "timeMonth": 950,
     "timeYear": 1230,
@@ -64,7 +64,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.54%",
     "time": 1088,
-    "timeDay": 966,
+    "timeDay": 1111,
     "timeWeek": 962,
     "timeMonth": 975,
     "timeYear": 1129,
@@ -113,13 +113,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www3.wisereport.co.kr.ico",
     "slug": "wise-report3",
     "status": "down",
-    "uptime": "98.14%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "93.75%",
+    "uptime": "98.13%",
+    "uptimeDay": "93.32%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "93.73%",
     "time": 1047,
-    "timeDay": 519,
+    "timeDay": 0,
     "timeWeek": 824,
     "timeMonth": 952,
     "timeYear": 1059,
@@ -161,7 +161,7 @@
       "2026-08-16": 26,
       "2026-09-05": 39,
       "2026-09-04": 1376,
-      "2026-11-15": 0
+      "2026-11-15": 96
     }
   }
 ]

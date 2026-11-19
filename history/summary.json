@@ -59,10 +59,10 @@
     "slug": "wise-report2",
     "status": "down",
     "uptime": "98.38%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "94.54%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "94.52%",
     "time": 1087,
     "timeDay": 0,
     "timeWeek": 926,
@@ -105,7 +105,7 @@
       "2026-08-31": 1368,
       "2026-09-05": 39,
       "2026-09-04": 1381,
-      "2026-11-19": 0
+      "2026-11-19": 74
     }
   },
   {
